@@ -1,0 +1,15 @@
+   /* 
+    Styling the page to change the font, font size and add spacing to the sides
+    */
+    body{
+    padding: 2% 20%;
+    font-family: Helvetica;
+    font-size: 16px;
+    }
+    img{
+    width: 50vw;
+    height: 30vh;
+    object-fit: cover
+    }
+
+ /* <!--Had to reformat this because for some reason the image was not cooperating and resizing the way I wanted it --> */
